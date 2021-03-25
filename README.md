@@ -17,4 +17,4 @@ Dataset for Movie Lens 1-million may be downloaded from https://grouplens.org/da
   --evaluate_every: type=int,help='How frequent (epochs) should you print out the validation and test recall@k metric',default=15  
   --print_every: type=int,help='How frequent (stochastic gradient updates) should you print out the running training loss',default=250  
 
-## Match Hit@10 test result for ML-1m of about ~57% without hyperparameter search compared to result reported in Bert4Rec (~59%)  
+## Match Hit@10 test result for ML-1m of about ~58% without hyperparameter search compared to result reported in Bert4Rec (~59%)  
